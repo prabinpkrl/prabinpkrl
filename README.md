@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<!--
-**prabinpkrl/prabinpkrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+About me if you check my repository! Thanks:)
 
 - 🔭 I’m currently working on nothing
 - 🌱 I’m currently learning web development
@@ -12,4 +9,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: thorugh facebook: Prabin Pokhrel
 - 😄 Pronouns: ...
 - ⚡ Fun fact: i am lazy but trying my best.
--->
+
